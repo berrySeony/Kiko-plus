@@ -35,9 +35,7 @@ comments: true
 ### 빅오 표기법
 알고리즘의 효율성을 분류하는 방식 
 
-기본 연산에 대한 연산 수 & 최악의 시나리오 
-
-[이미지] (https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Comparison_computational_complexity.svg/512px-Comparison_computational_complexity.svg.png)
+! (https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Comparison_computational_complexity.svg/512px-Comparison_computational_complexity.svg.png)
 
 1. 상수 시간
 - 실행 시간이 입력 크기에 의존하지 않는 알고리즘
