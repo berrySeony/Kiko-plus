@@ -35,6 +35,7 @@ comments: true
 ### 빅오 표기법
 알고리즘의 효율성을 분류하는 방식 
 
+![작은 이미지](http://placehold.it/200x200)
 ![이미지] (https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Comparison_computational_complexity.svg/512px-Comparison_computational_complexity.svg.png)
 
 1. 상수 시간
