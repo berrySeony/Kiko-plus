@@ -53,5 +53,5 @@ comments: true
 
 ## 참고
 
-[위키피디아](https://en.wikipedia.org/wiki/Big_O_notation)
+[wikipedia - big o notation](https://en.wikipedia.org/wiki/Big_O_notation)
 
