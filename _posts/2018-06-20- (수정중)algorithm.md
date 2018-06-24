@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(수정중) 효율적인 알고리즘을 찾아서 1"
+title: "효율적인 알고리즘을 찾아서 1"
 description: "알고리즘 파고들기"
 date: 2018-06-20
 comments: true
@@ -43,15 +43,16 @@ comments: true
 1. 비교정렬
 - 원소의 순서대로 비교하는 정렬
 - 정렬의 복잡도가 최악의 경우나 최선의 경우에나 똑같다.
-- 선택 정렬, 버블 정렬, 병합 정렬 등
+- 선택 정렬, 버블 정렬 등
 
 2. 제자리 정렬
 - 퀵 정렬, 삽입 정렬 등
   
 3. 온라인 정렬
-
+- 값이 들어오는 데로 정렬할 수 있는 알고리즘
+- 병합 정렬 등
 
 ## 참고
 
 [wikipedia - big o notation](https://en.wikipedia.org/wiki/Big_O_notation)
-
+[wikipedia - 정렬 알고리즘](https://ko.wikipedia.org/wiki/%EC%A0%95%EB%A0%AC_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
