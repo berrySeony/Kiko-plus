@@ -52,6 +52,18 @@ comments: true
 - 값이 들어오는 데로 정렬할 수 있는 알고리즘
 - 병합 정렬 등
 
+### 실행시간 효율성
+|정렬 알고리즘|최선의 경우|평균|최악의 경우|
+| -------- | :------: | -------- | -------- |
+[선택 정렬|Q(n^2)|Q(n^2)|Q(n^2)|
+|버블 정렬|Q(n^2)|Q(n^2)|Q(n^2)|
+|삽입 정렬|Q(n)|Q(n^2)|Q(n^2)|
+|병합 정렬|Q(nlogn)|Q(nlogn)|Q(nlogn)|
+|퀵 정렬|Q(nlogn)|Q(nlogn)|Q(n^2)|
+
+실행시간 효율성을 비교하면 모든 경우에 가장 좋은 것은 병합 정렬이다.
+
+
 ## 참고
 
 [wikipedia - big o notation](https://en.wikipedia.org/wiki/Big_O_notation)
