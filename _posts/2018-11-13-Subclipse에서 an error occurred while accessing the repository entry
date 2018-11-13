@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Subclipse에서 an error occurred while accessing the repository entry"
+description: "SVN connection refuse"
+date: 2018-11-13
+comments: true
+---
+
 오랜만에 이클립스를 사용하게 되었는데, 오류는 심플하다. 갑자기 SVN / CVS 가 연결이 되지 않는다. 
 그동안 아무런 문제없이 써왔던 SVN이 아무 설정도 건들이지 않았는데도 CONNECT REFUSE 알람이 뜬다. 
 'an error occurred while accessing the repository entry' 와 같은..
