@@ -20,4 +20,4 @@ comments: true
 2. https://stackoverflow.com/questions/41720780/cannot-open-eclipse-marketplace-cannot-install-remote-marketplace-locations-can <br>
 이것으로 해결<br>
 subclipse가 안되면 거진 서버 자체의 문제인경우가 많은데, tortoise 를 설치해서 테스트 해보니까 잘 되어서 이클립스 자체의 문제인건 알았지만,
-대체 이런 오류가 생긴 이유를 모르겠다.
+대체 이런 오류가 생긴 이유를 모르겠다. 내부 서버의 상황을 알지를 못해서.... 
